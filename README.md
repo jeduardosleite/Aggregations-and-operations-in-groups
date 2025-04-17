@@ -1,3 +1,3 @@
-Exercise 1 for module 9, about functions agg, groupby and pivot_table.
+# Exercise 1: Module 9
 
-Additionally, I created insights with map visualization, learning new analysis methods and Python.
+## About functions agg, groupby and pivot_table. Additionally, I created insights with map visualization, learning new analysis methods and python.
